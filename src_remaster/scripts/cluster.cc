@@ -3,7 +3,7 @@
 
 #include <gflags/gflags.h>
 #include <glog/logging.h>
-//
+
 #include "machine/cluster_manager.h"
 
 DEFINE_string(command, "status", "cluster command");
